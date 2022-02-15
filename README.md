@@ -1,8 +1,8 @@
-# Assigment
+# Assignment
 
 The coding assignment is to gauge your solidity skills and consists of:-
 
-a) a code review assigment; and
+a) a code review assignment; and
 <br>
 b) an integration component
 
@@ -10,7 +10,7 @@ b) an integration component
 ## a) Code Review
 ------------------------------------------------------------------------
 
-In broad, an escrow arrangment flow is as follows:-
+In broad, an escrow arrangement flow is as follows:-
 
 1) Receipient/Sender (or a third-party) may create an escrow accounts(s) with an Escrow Agent;
 
